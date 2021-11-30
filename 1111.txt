@@ -1,1 +1,3 @@
-master
+public stativ void main)_{
+	print(123)
+}
