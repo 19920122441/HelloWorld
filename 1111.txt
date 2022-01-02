@@ -3,7 +3,7 @@ public stativ void main)_{
 
 
 
-	pring(12)
+	pring(11111111)
 
 	oring213
 }
